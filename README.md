@@ -10,4 +10,4 @@ Here are some of my suggested repositories
 
 * [Github-Tutorial-Workshop](https://github.com/JonKing93/Github-Tutorial-Workshop): Check out [the workshop website](https://JonKing93.github.io/Github-Tutorial-Workshop/workshop/welcome) for a tutorial designed to introduce scientists and researchers to Github.
 
-* [scaleColorMap](https://github.com/JonKing93/scaleColorMap): A Matlab utility that adjusts colorbars for plotting divergent datasets.
+* [scaleColorMap](https://github.com/JonKing93/scaleColorMap): A Matlab utility that adjusts colorbars when plotting divergent datasets.
