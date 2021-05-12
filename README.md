@@ -6,7 +6,7 @@ Here are some of my suggested repositories
 
 * [DASH](https://github.com/JonKing93/DASH): A Matlab package for paleoclimate data assimilation workflow. You can find documentation on the [DASH Website](https://jonking93.github.io/DASH).
 
-* [pdsi](https://github.com/JonKing93/pdsi): A Matlab package to compute Palmer Drought Severity Indices from instrumental and climate model data.
+* [pdsi](https://github.com/JonKing93/pdsi): A Matlab package to compute the Palmer Drought Severity Index for instrumental and/or climate model data.
 
 * [Github-Tutorial-Workshop](https://github.com/JonKing93/Github-Tutorial-Workshop): Check out [the website](https://JonKing93.github.io/Github-Tutorial-Workshop/workshop/welcome) for a tutorial designed to introduce scientists and researchers to Github.
 
