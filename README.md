@@ -1,16 +1,13 @@
-### Hi there 👋
+### About Me
+I'm a climate researcher and data scientist at the University of Arizona. My research focuses on paleoclimate data assimilation. I'm the author and developer of DASH, a Matlab package for paleoclimate data assimilation workflow, as well as other climate-related projects. Check out [my website](https://jonking93.github.io) for more details about my work.
 
-<!--
-**JonKing93/JonKing93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Suggested Repositories
+Here are some of my suggested repositories
 
-Here are some ideas to get you started:
+* [DASH](https://github.com/JonKing93/DASH): A Matlab package for paleoclimate data assimilation workflow. You can find documentation on the [DASH Website](https://jonking93.github.io/DASH).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* [pdsi](https://github.com/JonKing93/pdsi): A Matlab package to compute Palmer Drought Severity Indices from instrumental and climate model data.
+
+* [Github-Tutorial-Workshop](https://github.com/JonKing93/Github-Tutorial-Workshop): Check out [the website](https://JonKing93.github.io/Github-Tutorial-Workshop/workshop/welcome) for a tutorial designed to introduce scientists and researchers to Github.
+
+* [scaleColorMap](https://github.com/JonKing93/scaleColorMap): A Matlab utility for plotting divergent datasets.
