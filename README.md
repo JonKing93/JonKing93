@@ -8,6 +8,6 @@ Here are some of my suggested repositories
 
 * [pdsi](https://github.com/JonKing93/pdsi): A Matlab package to compute the Palmer Drought Severity Index for instrumental and/or climate model data.
 
-* [Github-Tutorial-Workshop](https://github.com/JonKing93/Github-Tutorial-Workshop): Check out [the website](https://JonKing93.github.io/Github-Tutorial-Workshop/workshop/welcome) for a tutorial designed to introduce scientists and researchers to Github.
+* [Github-Tutorial-Workshop](https://github.com/JonKing93/Github-Tutorial-Workshop): Check out [the workshop website](https://JonKing93.github.io/Github-Tutorial-Workshop/workshop/welcome) for a tutorial designed to introduce scientists and researchers to Github.
 
-* [scaleColorMap](https://github.com/JonKing93/scaleColorMap): A Matlab utility for plotting divergent datasets.
+* [scaleColorMap](https://github.com/JonKing93/scaleColorMap): A Matlab utility that adjusts colorbars for plotting divergent datasets.
