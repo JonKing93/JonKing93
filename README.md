@@ -1,5 +1,5 @@
 ### About Me
-I'm a climate researcher and data scientist at the University of Arizona. My research focuses on paleoclimate data assimilation. I'm the author and developer of DASH, a Matlab package for paleoclimate data assimilation workflow, as well as other climate-related projects. Check out [my website](https://jonking93.github.io) for more details about my work.
+I'm a climate researcher and data scientist at the University of Arizona. My research focuses on paleoclimate data assimilation. I'm the author and developer of DASH, a Matlab package for paleoclimate data assimilation workflow, as well as other climate-related projects. My interests also include teaching data science skills for researchers, and supporting open science. Check out [my website](https://jonking93.github.io) for more details about my work.
 
 ### Suggested Repositories
 Here are some of my most popular repositories
