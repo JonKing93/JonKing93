@@ -1,13 +1,14 @@
-### About Me
-I'm a climate researcher and data scientist at the University of Arizona. My research focuses on paleoclimate data assimilation. I'm the author and developer of DASH, a Matlab package for paleoclimate data assimilation workflow, as well as other climate-related projects. My interests also include teaching data science skills for researchers, and supporting open science. Check out [my website](https://jonking93.github.io) for more details about my work.
+# About Me
+I'm a Mendenhall postdoc at the USGS, where I'm currently developing tools for postfire debris-flow hazard assessments. Previously, I completed a doctorate in climatology at the University of Arizona, where I specialized in paleoclimate data assimilation. I'm the author of several geoscientific software libraries - these include the USGS's [pfdf](https://ghsc.code-pages.usgs.gov/lhp/pfdf/) and [wildcat](https://ghsc.code-pages.usgs.gov/lhp/wildcat/) packages, as well as the [DASH](https://github.com/JonKing93/DASH) Matlab toolbox. I'm interested in natural hazards, climate change, and supporting open science. Check out [my website](https://jonking93.github.io) for more details about my work.
 
-### Suggested Repositories
-Here are some of my most popular repositories
+## Suggested Repositories
+Here are some of my most popular repositories:
 
-* [DASH](https://github.com/JonKing93/DASH): A Matlab package for paleoclimate data assimilation workflow. You can find documentation on the [DASH Website](https://jonking93.github.io/DASH).
+**Python / Postfire Debris flows**
+* [pfdf](https://ghsc.code-pages.usgs.gov/lhp/pfdf/): A Python library to support postfire debris-flow hazard assessments and research
+* [wildcat](https://ghsc.code-pages.usgs.gov/lhp/pfdf/): Command line tool to assess and map postfire debris-flow hazards
 
+**Matlab / Climate Science**
+* [DASH](https://github.com/JonKing93/DASH): A Matlab toolbox for paleoclimate data assimilation workflow.
 * [pdsi](https://github.com/JonKing93/pdsi): A Matlab package to compute the Palmer Drought Severity Index for instrumental and/or climate model data.
-
-* [Github-Tutorial-Workshop](https://github.com/JonKing93/Github-Tutorial-Workshop): Check out [the workshop website](https://JonKing93.github.io/Github-Tutorial-Workshop/workshop/welcome) for a tutorial designed to introduce scientists and researchers to Github.
-
 * [scaleColorMap](https://github.com/JonKing93/scaleColorMap): A Matlab utility that scales colorbars when plotting divergent datasets.
